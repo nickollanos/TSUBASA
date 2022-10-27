@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2022/07/Captain-Tsubasa-Ace-Anuncio-juego-movil-supercampeones.jpg?w=1920&ssl=1);
+    background-repeat: no_repeat;
+}
+
+p{
+    color: brown;
+    font-size: 100px;
+}
+h3{
+   color: blue;
+   font-size: 50px;
+   background-color: aquamarine;
+}
+
+h4{
+   color: blueviolet;
+   font-size: 35px;
+   background-color: brown;
+}
